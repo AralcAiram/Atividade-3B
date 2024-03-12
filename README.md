@@ -14,4 +14,10 @@ Criação de perfil e README no GitHub
 
 𝙋𝙧𝙤𝙟𝙚𝙩𝙤𝙨 𝙥𝙚𝙨𝙨𝙤𝙖𝙞𝙨:
 
+- No meu primeiro ano do ensino médio: fiz alguns trabalhos explorando html e css;
+- No segundo ano: fizemos trabalhos onde envolviam o evento Independence Night e nossas empresas fictícias;
+- Agora estamos explorando grid, ui e ux.
+
+𝙀𝙨𝙘𝙤𝙡𝙝𝙖 𝙙𝙚 𝙙𝙚𝙨𝙞𝙜𝙣:
+
 -
